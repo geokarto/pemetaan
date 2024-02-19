@@ -4,8 +4,6 @@ Segala peta di sini adalah pembikinan dari tahun 2024.
 
 1. Depth of Mariana Trench
 
-![Artboard 1](https://github.com/geokarto/pemetaan/assets/160412807/8773e45c-8ee5-42d0-b48c-18749959eeda)
-
-<img src="https://github.com/geokarto/pemetaan/assets/160412807/8773e45c-8ee5-42d0-b48c-18749959eeda" width="100" height="100">
+<img src="https://github.com/geokarto/pemetaan/assets/160412807/8773e45c-8ee5-42d0-b48c-18749959eeda" width="200" height="200">
 
 
